@@ -53,7 +53,7 @@ PHP community is very vast and so large, the proof is the number of PHP framewor
 The popular frameworks that are made on PHP are Laravel(recommended), Aiki, Symfony, Zend, Silex, and Slim. You can find any type of helping hand using PHP frameworks. This is another advantage of using PHP scripting language. 
 
 *Scalability:
-Scalability- the feature that is the ditto of gold, the most important thing whether talking about databases or hosting or even programming. PHP scripting language provides you scalability and lets you increase the size of your cluster. You can add more servers as your project grow and grow.
+Scalability- the feature that is most important thing whether talking about databases or hosting or even programming. PHP scripting language provides you scalability and lets you increase the size of your cluster. You can add more servers as your project grow and grow.
 
 *Object Oriented Language:
 OOP, is the concept that gives you all advantages nowadays. From reducing the line of codes to the reuse of classes, all are the features that every developer wants to use while developing the application.
